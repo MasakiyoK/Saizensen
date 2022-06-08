@@ -1,0 +1,32 @@
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017/Debian) (preloaded format=platex 2020.4.15)  19 APR 2020 11:18
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**kitazawa.tex
+(/usr/share/texlive/texmf-dist/tex/latex/tools/q.tex
+! Interruption.
+<to be read again> 
+                   \begingroup 
+l.1 
+    %%
+? q
+OK, entering \batchmode...
+pLaTeX2e <2017/10/28>+4 (based on LaTeX2e <2017-04-15>)
+Babel <3.18> and hyphenation patterns for 26 language(s) loaded.
+ File ignored
+)
+! Emergency stop.
+<*> kitazawa.tex
+                
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 6 strings out of 494735
+ 162 string characters out of 6176126
+ 51277 words of memory out of 5000000
+ 3606 multiletter control sequences out of 15000+600000
+ 7511 words of font info for 31 fonts, out of 8000000 for 9000
+ 264 hyphenation exceptions out of 8191
+ 5i,0n,3p,92b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.

@@ -1,0 +1,31 @@
+This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2020.6.15)  21 AUG 2020 19:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**denseQCD.tex
+(/usr/share/texlive/texmf-dist/tex/latex/tools/q.tex
+! Interruption.
+<to be read again> 
+                   \begingroup 
+l.1 
+    %%
+? q
+OK, entering \batchmode...
+pLaTeX2e <2020-02-02>+2 (based on LaTeX2e <2020-02-02> patch level 2)
+ L3 programming layer <2020-02-14> File ignored
+)
+! Emergency stop.
+<*> denseQCD.tex
+                
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 19 strings out of 482863
+ 429 string characters out of 5959218
+ 233059 words of memory out of 5000000
+ 15437 multiletter control sequences out of 15000+600000
+ 536209 words of font info for 41 fonts, out of 8000000 for 9000
+ 264 hyphenation exceptions out of 8191
+ 13i,0n,15p,92b,10s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
